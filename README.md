@@ -1,3 +1,5 @@
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0e8c33726f3e5adc919a)
+
 ## **Read Data**
 
 Lookup data by key
